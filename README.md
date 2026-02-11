@@ -104,9 +104,9 @@ Generated polynomial features for degrees:
 
 1
 
-2
+3
 
-8
+12
 
 Applied StandardScaler after polynomial expansion.
 
